@@ -10,4 +10,3 @@ USER gitpod
 # More information: https://www.gitpod.io/docs/config-docker/
 
 RUN curl https://cli-assets.heroku.com/install.sh | sh
-RUN rvm all do gem install bundler -v 1.17.1
