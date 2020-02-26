@@ -1,5 +1,5 @@
 image:
   file: .gitpod.Dockerfile
 
-tasks:
-  - init: rvm all do gem install --default bundler -v 1.17.1 
+# tasks:
+#   - init: rvm all do gem install --default bundler -v 1.17.1 
